@@ -1,2 +1,1 @@
-# PYTHON-PROJECT-
- palindrome validator
+
